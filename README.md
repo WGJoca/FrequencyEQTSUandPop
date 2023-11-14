@@ -1,1 +1,5 @@
 # FrequencyEQTSUandPop
+
+##Population Under Threat of Tsunamis after an Earthquake
+------
+This map is based off my summers in Seward, Ak and is dedicated to the noon tsunami warning test. Over this past summer, after a small earthquake near Kodiak Island the alarm at around 10 pm. Many people did not evacuate, and it called into question the population’s complacency towards the siren. Seward has an interesting history with earthquakes and tsunamis. In 1964, much of the town was destroyed by a 9.2 magnitude earthquake followed by a massive tsunami. Since then, a tsunami warning system has been used to warn the town’s population of possible tsunami. After this failure of the system an article was published in the local paper about the inaction that took place that night. The map shows the last 20 years of earthquake points that were accompanied by a tsunami warning compared to the population centers. This is to communicate the frequency of earthquakes  >4.0 magnitude and the population that is under threat.
